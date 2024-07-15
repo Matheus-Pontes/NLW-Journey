@@ -4,3 +4,7 @@ Event from Rocketseat - App to planner everything about future or present vacati
 # Front-end
 - Access front-end directory and open terminal
  - `npm i install` to dependencies
+
+# Techs
+- React JS
+- Tailwindcss
