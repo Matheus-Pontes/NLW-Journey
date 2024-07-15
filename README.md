@@ -1,5 +1,5 @@
-# NLW-Journey
-Event from Rocketseat - App to planner everything about future or present vacation
+# NLW Journey
+Rocketseat Event - App to plan everything for your trips and your guests
 
 # Front-end
 - Access front-end directory and open terminal
